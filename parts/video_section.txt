@@ -1,0 +1,37 @@
+<section class="main_video">
+            <div class="container">
+                <h2 class="main_tittle">Видео</h2>
+                <div class="row">
+                    <div class="main_video_card col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <img src="img/mv01.jpg" alt="">
+                        <h3>Здесь Будет Видео</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quaerat?</p>
+                    </div>
+                    <div class="main_video_card col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <img src="img/mv02.jpg" alt="">
+                        <h3>Здесь Будет Видео</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quaerat?</p>
+                    </div>
+                    <div class="main_video_card col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <img src="img/mv03.jpg" alt="">
+                        <h3>Здесь Будет Видео</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quaerat?</p>
+                    </div>
+                    <div class="main_video_card col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <img src="img/mv04.jpg" alt="">
+                        <h3>Здесь Будет Видео</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quaerat?</p>
+                    </div>
+                    <div class="main_video_card col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <img src="img/mv05.jpg" alt="">
+                        <h3>Здесь Будет Видео</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quaerat?</p>
+                    </div>
+                    <div class="main_video_card col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                        <img src="img/mv06.jpg" alt="">
+                        <h3>Здесь Будет Видео</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, quaerat?</p>
+                    </div>
+                </div>
+            </div>
+        </section>
