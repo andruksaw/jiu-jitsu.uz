@@ -12,6 +12,9 @@ header {
     height: 700px;
 }
 
+
+
+
 .logo_img {
     height: 100px;
     width: 100px;
@@ -77,10 +80,7 @@ header {
 
 /* main slider */
 
- .slider_img {
-    width: 1140px;
-    height: 800px;
-}
+
 
 .carousel-indicators li {
     width: 15px;
@@ -93,10 +93,15 @@ header {
 .main_slider {
     display: flex;
     margin: 50px auto;
-} 
+}
+
+
+
 
 
 /* main slider */
+
+
 
 
 .main_video {
@@ -114,6 +119,8 @@ header {
     margin: 20px 0;
 }
 
+
+/* contact page*/
 
 .main_map_card {
     width: 100%;
@@ -136,7 +143,7 @@ header {
 
 }
 
-
+/* contact page*/
 
 /*  main end */
 
