@@ -117,6 +117,8 @@ header {
     text-align: center;
     color: rgb(3, 3, 119);
     margin: 20px 0;
+    /* display: block;
+    margin: 0 auto; */
 }
 
 
@@ -140,7 +142,85 @@ header {
 .main_contacts_content {
     display: flex;
     flex-direction: column;
+    width: 100%;
+}
 
+.main_contacts_desc_li {
+    color: black;
+}
+
+.main_contacts_desc_li_span {
+    color: blue;
+}
+
+.main_contacts_desc_li_span_a {
+    text-decoration: underline;
+    list-style: none;
+    color: black;
+}
+
+.main_contacts_desc_li_span_a:hover {
+    text-decoration: none;
+    list-style: none;
+    transition: 1000ms;
+    color: blue;
+    font-size: 20px;
+}
+
+.main_icon {
+    width: 100px;
+    height: 100px;
+}
+
+.main_social_content {
+    width: 100%;
+}
+
+.main_social_items {
+    /* width: 100%; */
+}
+
+.main_social_items_ul {
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px 30px;
+}
+
+.main_social_items_ul_a {
+    display: block;
+    padding: 15px;
+}
+
+.main_icon {
+    border-radius: 10px;
+}
+
+.main_icon_1 {
+    background-color: blue;
+}
+
+.main_icon_2 {
+    background-color: crimson;
+}
+
+.main_icon_3 {
+    background-color: darkorange;
+}
+
+.main_icon_4 {
+    background-color: blue;
+}
+
+.main_icon_5 {
+    background-color: blue;
+}
+
+.main_icon:hover {
+    transform: scale(1.2);
+    transition: 1000ms;
+    opacity: 0.5;
 }
 
 /* contact page*/
