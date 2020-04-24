@@ -95,7 +95,9 @@ header {
     margin: 50px auto;
 }
 
-
+.slider_img{
+    object-fit: cover;
+}
 
 
 
