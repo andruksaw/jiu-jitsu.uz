@@ -109,6 +109,8 @@ header {
     height: 300px;
 }
 
+
+
 .main_video_card {
     text-align: center;
 }
@@ -116,9 +118,10 @@ header {
 .main_tittle {
     text-align: center;
     color: rgb(3, 3, 119);
-    margin: 20px 0;
-    /* display: block;
-    margin: 0 auto; */
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 
@@ -175,9 +178,9 @@ header {
     width: 100%;
 }
 
-.main_social_items {
-    /* width: 100%; */
-}
+/* .main_social_items {
+    width: 100%;
+} */
 
 .main_social_items_ul {
     /* width: 100%; */
@@ -227,7 +230,7 @@ header {
 
 /* about page */
 
-.main_about_background{
+.main_about_background {
     height: 500px;
     background: url(../posters/04.png) center center /cover;
     background-attachment: fixed;
@@ -239,6 +242,13 @@ header {
 
 .main_about_video_content_item {
     width: 100%;
+}
+
+.main_about_video_content_item_hvr {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 5px;
 }
 
 /* about page */
