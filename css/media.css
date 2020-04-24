@@ -72,6 +72,12 @@
     }
 
     /* main slider */
+
+    .main_video {
+        width: 300px;
+        height: 300px;
+    }
+
 }
 
 @media(max-width:576px) {
@@ -139,8 +145,8 @@
 
 
     .main_video {
-        width: 250px;
-        height: 250px;
+        width: 300px;
+        height: 300px;
     }
 
     .main_video_card {

@@ -156,15 +156,14 @@ header {
 .main_contacts_desc_li_span_a {
     text-decoration: underline;
     list-style: none;
-    color: black;
+    color: blue;
 }
 
 .main_contacts_desc_li_span_a:hover {
     text-decoration: none;
     list-style: none;
     transition: 1000ms;
-    color: blue;
-    font-size: 20px;
+    color: black;
 }
 
 .main_icon {
