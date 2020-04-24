@@ -225,6 +225,25 @@ header {
 
 /* contact page*/
 
+
+/* about page */
+
+.main_about_background{
+    height: 500px;
+    background: url(../posters/04.png) center center /cover;
+    background-attachment: fixed;
+}
+
+.main_about_video_content {
+    width: 100%;
+}
+
+.main_about_video_content_item {
+    width: 100%;
+}
+
+/* about page */
+
 /*  main end */
 
 
