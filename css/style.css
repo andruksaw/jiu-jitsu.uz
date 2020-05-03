@@ -238,6 +238,12 @@ header {
     background-attachment: fixed;
 }
 
+/* .main_about_background_2 {
+    height: 500px;
+    background: url(../posters/05.jpg) center center /cover;
+    background-attachment: fixed;
+} */
+
 .main_about_video_content {
     width: 100%;
 }
